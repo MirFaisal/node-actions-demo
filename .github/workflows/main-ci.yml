@@ -7,7 +7,7 @@ on:
     branches: [main]
 
 jobs:
-  build:
+  mir:
     runs-on: ubuntu-latest
 
     steps:
